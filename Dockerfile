@@ -1,4 +1,4 @@
-FROM alpine:3.18.6
+FROM alpine:3.21.0
 MAINTAINER Mickaël PERRIN <dev@mickaelperrin.fr>
 
 # tzdata for time syncing
